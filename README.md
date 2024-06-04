@@ -46,7 +46,7 @@
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/XwiDNFH4HHptxGoEHiwNjeK4tWMjQmHdJ9Vqbz1DvtKPz9UXOj9eKM8ei6-BEzvH1CRFKH5v=s900-c-k-c0x00ffffff-no-rj" style="border-radius: 10px; margin-right: 10px;"/>](https://portal.uniasselvi.com.br/)
-**Systems Analysis and Development** \
+**Análise e Desenvolvimento de Sistemas** \
 [**UNIASSELVI**](https://portal.uniasselvi.com.br/) • In progress\
 Skills: `Engenharia e Projeto de Software` `Segurança em Tecnologia da Informação` `Arquitetura de Computadores` `Sistema de Informação`
 `Lógica e técnica de Programação` `Banco de Dados` `Linguagens de Programação e Estruturas de Dados` `Programação Orientada a Objetos` `Interação Humano-Computador` `Desenvolvimento de Sistemas Web` 
